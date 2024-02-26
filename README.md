@@ -4,9 +4,6 @@
   <a href="https://t.me/L1ones">
     <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/the_godzill">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge" alt="VK Badge"/>
-  </a> 
 </div>
 <h1>
   Welcome
@@ -17,18 +14,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
-### :man_technologist: About Me :
-
-I am a begginer Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :seedling: Love to eat.
-
-- :zap: Tryhard and always ready to learn and develop.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-grey?logo=telegram&style=for-the-badge)](https://t.me/L1ones)
 
 ---
 
@@ -46,11 +31,7 @@ I am a begginer Frontend Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1oneSs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
